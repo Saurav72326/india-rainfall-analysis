@@ -70,7 +70,7 @@ This project performs a comprehensive analysis of India's subdivision-wise rainf
 
 ### 🤖 ML Prediction
 
-![ML](analysis6_ml_regression.png)
+![ML](analysis5_ml_regression.png)
 *Demonstrates a strong linear relationship between JJAS and annual rainfall, with good model fit and low prediction error.*
 
 
